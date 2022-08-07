@@ -9,7 +9,7 @@ Backend in C#
 Database SQL
 Chat component which was developed by us is based on Firebase live updates features and holds our chats and messages database, alongside with holding an extra users database. The component's programming is client side based, not in the backend.
 
-Screens - 
+Screens:
 Login
 Registration
 Main Dashboard
@@ -21,7 +21,7 @@ Search by categories
 
 The client side is dimensions responsive.
 
-SQL stored procedures aren't in this repository, but can be shared upon request.
+
 
 
 
